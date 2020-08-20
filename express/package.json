@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "g": "^2.0.1",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "ejs": "^2.6.1",
